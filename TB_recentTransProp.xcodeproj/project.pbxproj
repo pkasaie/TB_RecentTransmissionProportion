@@ -8,14 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		376A6C731C00DBF9004CCA96 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C721C00DBF9004CCA96 /* main.cpp */; };
-		376A6C8B1C00DC08004CCA96 /* Community.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C791C00DC08004CCA96 /* Community.cpp */; };
-		376A6C8C1C00DC08004CCA96 /* driver - Calibration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C7C1C00DC08004CCA96 /* driver - Calibration.cpp */; };
-		376A6C8D1C00DC08004CCA96 /* driver-test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C7D1C00DC08004CCA96 /* driver-test.cpp */; };
-		376A6C8E1C00DC08004CCA96 /* driver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C7E1C00DC08004CCA96 /* driver.cpp */; };
-		376A6C8F1C00DC08004CCA96 /* Experiment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C7F1C00DC08004CCA96 /* Experiment.cpp */; };
-		376A6C901C00DC08004CCA96 /* methods.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C851C00DC08004CCA96 /* methods.cpp */; };
-		376A6C911C00DC08004CCA96 /* params.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C871C00DC08004CCA96 /* params.cpp */; };
-		376A6C921C00DC08004CCA96 /* Person.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C891C00DC08004CCA96 /* Person.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,20 +25,6 @@
 /* Begin PBXFileReference section */
 		376A6C6F1C00DBF9004CCA96 /* TB_recentTransProp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TB_recentTransProp; sourceTree = BUILT_PRODUCTS_DIR; };
 		376A6C721C00DBF9004CCA96 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		376A6C791C00DC08004CCA96 /* Community.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Community.cpp; path = ../Community.cpp; sourceTree = "<group>"; };
-		376A6C7A1C00DC08004CCA96 /* Community.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Community.h; path = ../Community.h; sourceTree = "<group>"; };
-		376A6C7B1C00DC08004CCA96 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = ../Constants.h; sourceTree = "<group>"; };
-		376A6C7C1C00DC08004CCA96 /* driver - Calibration.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "driver - Calibration.cpp"; path = "../../driver - Calibration.cpp"; sourceTree = "<group>"; };
-		376A6C7D1C00DC08004CCA96 /* driver-test.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "driver-test.cpp"; path = "../../driver-test.cpp"; sourceTree = "<group>"; };
-		376A6C7E1C00DC08004CCA96 /* driver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = driver.cpp; path = ../../driver.cpp; sourceTree = "<group>"; };
-		376A6C7F1C00DC08004CCA96 /* Experiment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Experiment.cpp; path = ../Experiment.cpp; sourceTree = "<group>"; };
-		376A6C801C00DC08004CCA96 /* Experiment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Experiment.h; path = ../Experiment.h; sourceTree = "<group>"; };
-		376A6C851C00DC08004CCA96 /* methods.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = methods.cpp; path = ../methods.cpp; sourceTree = "<group>"; };
-		376A6C861C00DC08004CCA96 /* methods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = methods.h; path = ../methods.h; sourceTree = "<group>"; };
-		376A6C871C00DC08004CCA96 /* params.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = params.cpp; path = ../params.cpp; sourceTree = "<group>"; };
-		376A6C881C00DC08004CCA96 /* params.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = params.h; path = ../params.h; sourceTree = "<group>"; };
-		376A6C891C00DC08004CCA96 /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Person.cpp; path = ../Person.cpp; sourceTree = "<group>"; };
-		376A6C8A1C00DC08004CCA96 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Person.h; path = ../Person.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,17 +41,6 @@
 		376A6C661C00DBF9004CCA96 = {
 			isa = PBXGroup;
 			children = (
-				376A6C8A1C00DC08004CCA96 /* Person.h */,
-				376A6C891C00DC08004CCA96 /* Person.cpp */,
-				376A6C7A1C00DC08004CCA96 /* Community.h */,
-				376A6C791C00DC08004CCA96 /* Community.cpp */,
-				376A6C7F1C00DC08004CCA96 /* Experiment.cpp */,
-				376A6C801C00DC08004CCA96 /* Experiment.h */,
-				376A6C851C00DC08004CCA96 /* methods.cpp */,
-				376A6C861C00DC08004CCA96 /* methods.h */,
-				376A6C871C00DC08004CCA96 /* params.cpp */,
-				376A6C881C00DC08004CCA96 /* params.h */,
-				376A6C7B1C00DC08004CCA96 /* Constants.h */,
 				376A6C711C00DBF9004CCA96 /* TB_recentTransProp */,
 				376A6C701C00DBF9004CCA96 /* Products */,
 			);
@@ -90,9 +57,6 @@
 		376A6C711C00DBF9004CCA96 /* TB_recentTransProp */ = {
 			isa = PBXGroup;
 			children = (
-				376A6C7C1C00DC08004CCA96 /* driver - Calibration.cpp */,
-				376A6C7D1C00DC08004CCA96 /* driver-test.cpp */,
-				376A6C7E1C00DC08004CCA96 /* driver.cpp */,
 				376A6C721C00DBF9004CCA96 /* main.cpp */,
 			);
 			path = TB_recentTransProp;
@@ -154,15 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				376A6C8F1C00DC08004CCA96 /* Experiment.cpp in Sources */,
-				376A6C8E1C00DC08004CCA96 /* driver.cpp in Sources */,
 				376A6C731C00DBF9004CCA96 /* main.cpp in Sources */,
-				376A6C901C00DC08004CCA96 /* methods.cpp in Sources */,
-				376A6C921C00DC08004CCA96 /* Person.cpp in Sources */,
-				376A6C8D1C00DC08004CCA96 /* driver-test.cpp in Sources */,
-				376A6C8C1C00DC08004CCA96 /* driver - Calibration.cpp in Sources */,
-				376A6C8B1C00DC08004CCA96 /* Community.cpp in Sources */,
-				376A6C911C00DC08004CCA96 /* params.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +232,7 @@
 				376A6C781C00DBF9004CCA96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
