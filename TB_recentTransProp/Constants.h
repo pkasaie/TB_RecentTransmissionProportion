@@ -1,7 +1,6 @@
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
 
-
 //person
 #define MAXHISTORY   500 // length of exposure history in years //this may need to be longer
 #define MAXPERSONAGE   10 // maximum age-1 for a person

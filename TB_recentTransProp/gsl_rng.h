@@ -1,4 +1,4 @@
-/* rng/gsl_rng.h
+ /* rng/gsl_rng.h
  * 
  * Copyright (C) 1996, 1997, 1998, 1999, 2000, 2004 James Theiler, Brian Gough
  * 

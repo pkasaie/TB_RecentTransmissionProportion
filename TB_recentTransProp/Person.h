@@ -1,4 +1,4 @@
-// Person.h
+ // Person.h
 // modeling a single individual.
 
 #ifndef __PERSON_H

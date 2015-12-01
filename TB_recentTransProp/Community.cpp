@@ -1,4 +1,3 @@
-
 // Community.cpp
 
 #include <cstdlib>

@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		376A6C731C00DBF9004CCA96 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376A6C721C00DBF9004CCA96 /* main.cpp */; };
 		56B587F91C0D1FBC00115164 /* driver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 56B587ED1C0D1FBC00115164 /* driver.cpp */; };
 		56B587FA1C0D1FBC00115164 /* params.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 56B587EE1C0D1FBC00115164 /* params.cpp */; };
 		56B587FB1C0D1FBC00115164 /* Community.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 56B587F01C0D1FBC00115164 /* Community.cpp */; };
@@ -30,7 +29,6 @@
 
 /* Begin PBXFileReference section */
 		376A6C6F1C00DBF9004CCA96 /* TB_recentTransProp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TB_recentTransProp; sourceTree = BUILT_PRODUCTS_DIR; };
-		376A6C721C00DBF9004CCA96 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		56B587EB1C0D1FBC00115164 /* gsl_randist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gsl_randist.h; sourceTree = "<group>"; };
 		56B587EC1C0D1FBC00115164 /* gsl_rng.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gsl_rng.h; sourceTree = "<group>"; };
 		56B587ED1C0D1FBC00115164 /* driver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driver.cpp; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 				56B587F61C0D1FBC00115164 /* params.h */,
 				56B587F71C0D1FBC00115164 /* Person.cpp */,
 				56B587F81C0D1FBC00115164 /* Constants.h */,
-				376A6C721C00DBF9004CCA96 /* main.cpp */,
 			);
 			path = TB_recentTransProp;
 			sourceTree = "<group>";
@@ -153,7 +150,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				56B587FD1C0D1FBC00115164 /* methods.cpp in Sources */,
-				376A6C731C00DBF9004CCA96 /* main.cpp in Sources */,
 				56B587FE1C0D1FBC00115164 /* Person.cpp in Sources */,
 				56B587FC1C0D1FBC00115164 /* Experiment.cpp in Sources */,
 				56B587F91C0D1FBC00115164 /* driver.cpp in Sources */,
